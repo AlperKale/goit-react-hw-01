@@ -1,0 +1,42 @@
+.list {
+  list-style: none;
+  padding: 0;
+  display: flex;
+
+  gap: 20px;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.item {
+  display: flex;
+  align-items: center;
+  padding: 12px;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  border: 2px solid black;
+}
+
+.avatar {
+  width: 48px;
+  border-radius: 8px;
+  margin-right: 12px;
+}
+
+.name {
+  font-weight: bold;
+}
+
+.status {
+  margin-left: auto;
+  font-weight: bold;
+}
+
+.online {
+  color: green;
+}
+
+.offline {
+  color: red;
+}
