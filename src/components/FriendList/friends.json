@@ -15,7 +15,7 @@
     "avatar": "https://cdn-icons-png.flaticon.com/512/1623/1623681.png",
     "name": "Ajax",
     "isOnline": true,
-    " id": 1213
+    "id": 1213
   },
   {
     "avatar": "https://cdn-icons-png.flaticon.com/512/2977/2977285.png",
@@ -29,4 +29,4 @@
     "isOnline": false,
     "id": 1284
   }
-]
+] 
